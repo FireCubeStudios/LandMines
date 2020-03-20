@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/LandMines/static/js/main.2baee74d.chunk.js",
+    "main.js.map": "/LandMines/static/js/main.2baee74d.chunk.js.map",
+    "runtime~main.js": "/LandMines/static/js/runtime~main.84647318.js",
+    "runtime~main.js.map": "/LandMines/static/js/runtime~main.84647318.js.map",
+    "static/js/2.7486cfd2.chunk.js": "/LandMines/static/js/2.7486cfd2.chunk.js",
+    "static/js/2.7486cfd2.chunk.js.map": "/LandMines/static/js/2.7486cfd2.chunk.js.map",
+    "index.html": "/LandMines/index.html",
+    "precache-manifest.4845eae482526c8050c0af271964b4f3.js": "/LandMines/precache-manifest.4845eae482526c8050c0af271964b4f3.js",
+    "service-worker.js": "/LandMines/service-worker.js"
+  }
+}
