@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/landmines/static/js/main.fcbd6a55.chunk.js",
-    "main.js.map": "/landmines/static/js/main.fcbd6a55.chunk.js.map",
+    "main.js": "/landmines/static/js/main.9846a258.chunk.js",
+    "main.js.map": "/landmines/static/js/main.9846a258.chunk.js.map",
     "runtime~main.js": "/landmines/static/js/runtime~main.369453bd.js",
     "runtime~main.js.map": "/landmines/static/js/runtime~main.369453bd.js.map",
     "static/js/2.7486cfd2.chunk.js": "/landmines/static/js/2.7486cfd2.chunk.js",
     "static/js/2.7486cfd2.chunk.js.map": "/landmines/static/js/2.7486cfd2.chunk.js.map",
     "index.html": "/landmines/index.html",
-    "precache-manifest.177f8d0133b0d53a25880426c537b4a3.js": "/landmines/precache-manifest.177f8d0133b0d53a25880426c537b4a3.js",
+    "precache-manifest.848cb4a63d784284b69a90182faef69e.js": "/landmines/precache-manifest.848cb4a63d784284b69a90182faef69e.js",
     "service-worker.js": "/landmines/service-worker.js"
   }
 }
