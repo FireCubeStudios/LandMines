@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e7da85fa134c9c431712f17e9826761b",
+    "revision": "528b43c7fc75e3dcc833a7e4b8d98973",
     "url": "/landmines/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/landmines/static/js/2.c66019ac.chunk.js"
   },
   {
-    "revision": "aacc5ec487bbba338307",
-    "url": "/landmines/static/js/main.e4767091.chunk.js"
+    "revision": "94d37f5f112f768a35c8",
+    "url": "/landmines/static/js/main.8defb344.chunk.js"
   },
   {
     "revision": "e2e190dc06141ea668b5",
