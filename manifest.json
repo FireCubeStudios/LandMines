@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Landmines",
+  "name": "Learn about landmines and how they affect people around the world",
   "icons": [
     {
       "src": "favicon.ico",
